@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/can-i-use-this-address/static/css/main.8c2cffa3.chunk.css",
-    "main.js": "/can-i-use-this-address/static/js/main.078a154d.chunk.js",
-    "main.js.map": "/can-i-use-this-address/static/js/main.078a154d.chunk.js.map",
+    "main.js": "/can-i-use-this-address/static/js/main.dca53672.chunk.js",
+    "main.js.map": "/can-i-use-this-address/static/js/main.dca53672.chunk.js.map",
     "runtime-main.js": "/can-i-use-this-address/static/js/runtime-main.b92b7777.js",
     "runtime-main.js.map": "/can-i-use-this-address/static/js/runtime-main.b92b7777.js.map",
     "static/js/2.8111a01e.chunk.js": "/can-i-use-this-address/static/js/2.8111a01e.chunk.js",
     "static/js/2.8111a01e.chunk.js.map": "/can-i-use-this-address/static/js/2.8111a01e.chunk.js.map",
     "index.html": "/can-i-use-this-address/index.html",
-    "precache-manifest.560721f31aba613024f7e027aadeb717.js": "/can-i-use-this-address/precache-manifest.560721f31aba613024f7e027aadeb717.js",
+    "precache-manifest.6c3cb77168c38f6dc31e199301087825.js": "/can-i-use-this-address/precache-manifest.6c3cb77168c38f6dc31e199301087825.js",
     "service-worker.js": "/can-i-use-this-address/service-worker.js",
     "static/css/main.8c2cffa3.chunk.css.map": "/can-i-use-this-address/static/css/main.8c2cffa3.chunk.css.map",
     "static/js/2.8111a01e.chunk.js.LICENSE.txt": "/can-i-use-this-address/static/js/2.8111a01e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b92b7777.js",
     "static/js/2.8111a01e.chunk.js",
     "static/css/main.8c2cffa3.chunk.css",
-    "static/js/main.078a154d.chunk.js"
+    "static/js/main.dca53672.chunk.js"
   ]
 }
