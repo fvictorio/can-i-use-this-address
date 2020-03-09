@@ -91,8 +91,11 @@ function App() {
     setInputMnemonic("");
   };
 
+  if (context.error) {
+    return <div className="App">There was an error. Make sure MetaMask is enabled and connected to Rinkeby.</div>;
+  }
   if (!context.active) {
-    return <div>Loading...</div>;
+    return <div className="App">Loading...</div>;
   }
 
   return (
