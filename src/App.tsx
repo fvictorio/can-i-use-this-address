@@ -53,6 +53,8 @@ const Footer = () => {
       }}
     >
       <a href="https://github.com/fvictorio/can-i-use-this-address">GitHub</a>
+      &nbsp; &nbsp; &nbsp;
+      <a href="https://rinkeby.etherscan.io/address/0xa334b942d69f4d2cc6806010984dc19637ebb47f">Contract</a>
     </div>
   );
 };
